@@ -1,3 +1,3 @@
 # learn-words
 This is the project of learn words english
-<https://zdyknight.github.io/learn-words/>
+<https://zackary-yy.github.io/learn-words/>
